@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of King James the I. to both Houses of Parliament upon his accession to, and the happy union of both the crowns of England and Scotland, regally pronounced, and expressed by him to them, die Jovis 22th. Martii 1603.</title>
+            <title>Speeches. 1604-03-22.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46455</idno>
+            <idno type="STC">Wing J144</idno>
+            <idno type="STC">ESTC R220721</idno>
+            <idno type="EEBO-CITATION">99832113</idno>
+            <idno type="PROQUEST">99832113</idno>
+            <idno type="VID">36584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36584)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1779:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of King James the I. to both Houses of Parliament upon his accession to, and the happy union of both the crowns of England and Scotland, regally pronounced, and expressed by him to them, die Jovis 22th. Martii 1603.</title>
+                  <title>Speeches. 1604-03-22.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The year of the speech is given in Lady Day dating.</note>
+                  <note>Signatures: A-C² .</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625 --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36584:1" rendition="simple:additions"/>
+            <p>THE SPEECH OF King JAMES the I. TO BOTH HOUSES OF PARLIAMENT Upon his ACCESSION to, AND THE HAPPY UNION Of Both the CROWNS OF <hi>ENGLAND</hi> and <hi>SCOTLAND,</hi> Regally Pronounced, and Expreſſed by him to them, <hi>Die JOVIS</hi> 22<hi rend="sup">th.</hi> 
+               <hi>Martii</hi> 1603.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:36584:2"/>
+            <pb facs="tcp:36584:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Inducement to the Publiſhing of this worthy Speech, is no other than to intimate to the World the diſreliſh that ſo Learned a King had againſt the Impious Faction of Jeſuitiſm and Pope<g ref="char:EOLhyphen"/>ry; both which have always been look'd upon as the Enemies of our Peace and <g ref="char:V">Ʋ</g>nanimity; ſo that it plea<g ref="char:EOLhyphen"/>ſed God to appoint him in a great meaſure, to make us Happy in our Pious, and now well ſecured Refor<g ref="char:EOLhyphen"/>mation.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:36584:3"/>
+            <pb n="1" facs="tcp:36584:3" rendition="simple:additions"/>
+            <head>Die JO<g ref="char:V">Ʋ</g>IS <hi>22<hi rend="sup">th.</hi>
+               </hi> Martii <hi>1603.</hi>
+            </head>
+            <p>This Day the Speaker Elect, with a great Number of the Commons, retur<g ref="char:EOLhyphen"/>ned again to the uſual place, and did there repoſe themſelves, until his Highneſs being Aſcended his Royal Throne, in the Upper Houſe did ſend unto them; which about two of the Clock in the Afternoon he was pleaſed to do; and Mr. Speaker with the reſt of the Commons, coming into the Kings Preſence, his Majeſty took occaſion to Repeat the Effect of his former Speech, delivered the firſt Day; with Excuſe of the miſtaking, upon Monday precedent.</p>
+            <div type="body_of_speech">
+               <head>His Majeſties Speech was to this Effect.</head>
+               <p>IT did no ſooner pleaſe God, to lighten his Hand, and retent the Violence of the devouring Angel, againſt the poor people of this City, but as ſoon did I reſolve to call this Parliament, and that for Three chief and principle Rea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons: The firſt whereof is, and which of its ſelf, although there were no more, is not only a ſufficient, but a moſt full and neceſſary ground, and reaſon for the con<g ref="char:EOLhyphen"/>vening of this Aſſembly.</p>
+               <p>The firſt Reaſon, I ſay is, That you who are here preſently Aſſembled, to repre<g ref="char:EOLhyphen"/>ſent the Body of this whole Kingdom, and of all ſorts of people within the ſame; may with your own Ears hear; and that I, out of mine own Mouth, may deliver unto you, the aſſurance of my due thankfulneſs for your ſo joyfully, and general Applauſe to the declaring, and receiving me in this Seat; (which God by my Birth<g ref="char:EOLhyphen"/>right and Lineal deſcent, had in the fullneſs of time provided for me) and that im<g ref="char:EOLhyphen"/>mediately after, it pleaſed God to call your late Soveraign of bleſſed Memory, full of days, but fuller of immortal Trophies of Honour, out of this tranſitory Life; not that I am able to expreſs her Words, or to utter by Eloquence the vive Image of mine inward Thankfulneſs; but only, that out of mine own Mouth you may reſt aſſured, to expect that meaſure of thankfulneſs at my Hands; which is accord<g ref="char:EOLhyphen"/>ing to the infiniteneſs of your deſerts, and to my inclination and ability for requital of the ſame. Shall I ever, nay, can I ever be able, or rather ſo unable in memory, as to forget your unexpected readineſs and alacrity; your ever memorable reſoluti<g ref="char:EOLhyphen"/>on, and your moſt wonderful conjunction, and harmony of your hearts, in decla<g ref="char:EOLhyphen"/>ring and imbracing me as your undoubted, and lawful King and Governour; or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall it ever be blotted out of my mind, how at my firſt Entry into this Kingdom; the people of all ſorts, Rid and Ran, nay, rather Flew to meet me; their Eyes flam<g ref="char:EOLhyphen"/>ing nothing but Sparkles of Affection; their Mouths and Tongues uttering nothing but Songs of Joy; their Hands and Feet, and all the reſt of their Members in their Geſtures, diſcovering a paſſionate Longing and Earneſtneſs, to Meet and Embrace their New Sovereign; <hi>Quid ergo retribuamur.</hi> Shall I allow in my ſelf, that which I could not bear with in another? No, I muſt plainly and freely confeſs here in all your Audiences, I did ever naturally ſo far miſlike a Tongue, too ſmooth and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iligent in paying their Creditors with Lip payments and verbal thanks, as I ever ſuſpected that ſort of people meant not to pay their Debtors in more ſubſtantial ſort of Coin; and therefore for expreſſing of my thankfulneſs, I muſt reſort unto my other two Reaſons of my convening of this Parliament, by them in Action to ut<g ref="char:EOLhyphen"/>ter my thankfulneſs; both the ſaid Reaſons having but one ground, which is the deeds whereby all the days of my Life, I am by Gods Grace to expreſs all my thankfulneſs toward you, but divided in this; That in the firſt of theſe two, mine Actions of thanks are ſo inſeperably conjoyned with my perſon, as they are be<g ref="char:EOLhyphen"/>come in a manner individually annexed to the ſame: In the other Reaſon, mine Actions are ſuch, as I may do, or leave them undone; although by Gods Grace I hope never to be weary of the doing of them.</p>
+               <pb n="2" facs="tcp:36584:4"/>
+               <p>As to the firſt, it is the bleſſings which God hath in my perſon beſtowed on you all; wherein I proteſt I do more glory at the ſame for your Weal, than for any parti<g ref="char:EOLhyphen"/>cular reſpect of mine own reputation, or advantage therein: The firſt then of theſe bleſſings which God hath joyntly with my perſon ſent unto you, is outward peace; that is peace abroad with all Foreign Neighbours: For I thank God I may ſafely ſay, that never ſince I was a King, I either received wrong from any Chriſtian Prince or State, or did wrong to any: I have ever prais'd God, yet kept Peace and Amity with all, which have been ſo far tied to my perſon, as at my coming here, you are Witneſſes, I found the State Embarqued in a great and tedious War; and only by mine Arrival here, and by the peace in my perſon; is not Amity kept where War was before; which is no ſmall bleſſing to a Chriſtian Common-wealth; for by Peace abroad with our Neighbours, the Towns flouriſh, the Merchants be<g ref="char:EOLhyphen"/>come Rich, the Trade encreaſe, and the people of all ſorts of the Land, enjoy free liberty to exerciſe themſelves in their ſeveral vocations, without peril, or di<g ref="char:EOLhyphen"/>ſturbance; not that I think this outward Peace ſo unſeperably tied to my Perſon, as I dare aſſuredly promiſe to my ſelf, and to you the certain continuance thereof: But thus far I can very well aſſure you, and in the Word of a King, promiſe unto you, that I ſhall never give the firſt occaſion of the breach thereof; neither ſhall I ever be moved for any particular, or private paſſion of mine, to interrupt your publick Peace; unleſs I be forced thereunto, either for reparation of the Honour of the Kingdom, or elſe by neceſſity for the Weal and preſervation of the ſame; in which Caſe, a ſecure and honourable War muſt be preferred, to an unſecure and diſhonourable peace: Yet do I hope, by the experience of the by paſt bleſſing of Peace, which God hath ſo long ever ſince my Birth time beſtowed upon me, that he will not be weary to continue the ſame, nor repent him of his Grace towards me; transferring that Sentence of King <hi>David</hi>'s, upon his by paſt Victories of War to mine of Peace.</p>
+               <p>That that God, who preſerved me from the devouring Jaws of the Bear, and of the Lyon; and delivered them into my Hands, ſhall now alſo grant me Victory over that uncircumciſed Philiſtine: But although outward peace be a great Bleſſing, yet is it as far inferiour to that within, as Civil Wars are more cruel and unnatural than Wars abroad; and therefore the ſecond great Bleſſing that God hath within my Perſon ſent unto you, is Peace within, and that in a double form.</p>
+               <p>Firſt, by my diſcent lineally out of the Loyns of <hi>Henry</hi> the VII. is reunited and confirmed in me, the Union of the Two Princely Roſes of the two Houſes of <hi>Lan<g ref="char:EOLhyphen"/>caſter</hi> and <hi>York;</hi> whereof that King of happy Memory was the firſt Uniter, as he was alſo the firſt Ground layer of the other Peace. The lamentable and Miſerable Events by the Civil and Bloody diſcention betwixt theſe two Houſes, were ſo great and ſo late, as it need not to be renewed to your Memories; which as it was firſt ſettled and united in him, ſo it is now reunited and confirmed in me, being Juſtly and Lineally deſcended, not only of that happy conjunction, but of both the branch<g ref="char:EOLhyphen"/>es thereof many times before: But the Union of the two Princely Houſes, is no<g ref="char:EOLhyphen"/>thing comparable to the Union of the two Ancient and Famous Kingdoms, which is the other inward Peace annexed to my perſon: And here I muſt crave your pa<g ref="char:EOLhyphen"/>tiences for a little ſpace, to give me leave to diſcourſe more particularly of the Be<g ref="char:EOLhyphen"/>nefits that do ariſe, of that Union which is made in my Blood; being a matter that moſt properly belongeth unto me to ſpeak of, as the Head wherein that great Body is united. And firſt, if we were to look no higher than to Natural and Phi<g ref="char:EOLhyphen"/>ſical reaſons, we may be eaſily perſwaded of the great Benefits, that by that Union do redound to the whole Iſland: For if twenty Thouſand Men be a ſtrong Ar<g ref="char:EOLhyphen"/>my, is not the double Number hereof Forty Thouſand a double the ſtronger Ar<g ref="char:EOLhyphen"/>my. If a Baron inricheth himſelf with double as many Lands as he had before; is he not double the greater? Nature teacheth us, that Mountains are made of Motes, and that at the firſt Kingdoms being divided, and every particular Town, or little Country that Tyrants, or Uſurpers could obtain the poſſeſſion, a Seigniory a part; many of theſe little Kingdoms, are now in proceſs of time, by the Ordinance of God, joyned into great Monarchies; whereby they are become within themſelves powerful, to defend themſelves from outward Invaſions; their Head and Gover<g ref="char:EOLhyphen"/>nour enabled to redeem them from Foreign Aſſaults and puniſh private Tranſgreſ<g ref="char:EOLhyphen"/>ſors within. Do we not remember that this Kingdom was divided into ſeven little
+<pb n="3" facs="tcp:36584:4" rendition="simple:additions"/>Kingdoms beſides <hi>Wales;</hi> and is it not now the ſtronger by their Union; and hath not the Union of <hi>Wales</hi> to <hi>England,</hi> added a greater ſtrength thereto; which although it was a greater Principality, was nothing comparable in Greatneſs, and in Power; to the Ancient and Famous Kingdom of <hi>Scotland:</hi> But what ſhould we ſtick upon any natural appearance, when it is manifeſt, that God of his Almighty Providence, hath preordained it ſo to be: Hath not God firſt uni<g ref="char:EOLhyphen"/>ted theſe Kingdoms, both in Language, Religion, and ſimilitude of Manners? Yea, Hath he not made us all in one Iſland, compaſs'd with one Sea; and of it ſelf by Nature ſo indiviſible, as almoſt thoſe that were Borderers themſelves in the late Borders, cannot diſtinguiſh, nor know, or diſcern their own Limits: Theſe two Countries being ſeparated, neither by Sea, nor by any great River, Mountain, nor other ſtrength of Nature, but only by little ſmall Brooks, or demoliſhed little Walls; ſo as rather they were divided in apprehenſion, than in Effect; and now in the end and fullneſs of time, United the Right and Title of both in my Perſon alike; Lineally deſcended of both the Crowns, whereby it is now become like a little World within it ſelf, being Intrenched, and Fortifi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> round about with a Natural, and yet admirable ſtrong Pond, or Ditch, whereby all the former fears of this Nation are now quite cut off. The other part of the Iſland, being ever before now, not only a place of Landing to all ſtrangers, that were to make Invaſions here; but likewiſe moved by the Enemies of this State, by untimely incurſions, to make inforced diverſion from their Conqueſts, for defending themſelves at home, and keeping ſure their backdoor, as then it was called; which was the greateſt hindrance and lett, that ever my Predeceſſors of this Nation gave, in diſturbing them from their many Famous, and Glorious Conqueſts abroad; what God hath enjoyned then let no Man ſe<g ref="char:EOLhyphen"/>parate. I am the Husband, and the whole Iſland is my lawful Wife; I am <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Head, and it is my Body; I am the Shepherd, and it is my Flock; I hope therefore no man will be ſo unreaſonable, as to think that I, that am a Chriſtian King under the Goſpel, ſhould be a Polygamiſt, and Husband to two Wifes; that I being the Head, ſhould have a divided, and monſtrous Body; or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat I being a Shepherd to ſo Fair a Flock, whoſe Fold hath no Wall to hedge it, but the four Seas ſhould have my Flock parted in two: But as I am aſſured, that no honeſt Subject of whatſoever degree within my whole Dominion, is leſs glad of this joyful Union than I am, ſo may the frivolous objection of any that would be hinderers of this Work, which God hath in my Perſon already eſtabliſh<g ref="char:EOLhyphen"/>ed, be eaſily anſwered; which can be none, except ſuch as are blinded with ignorance, or ſelf tranſported with malice, being unable to live in a well Go<g ref="char:EOLhyphen"/>verned Common-Wealth, and only delight to fiſh in troubled Waters; for if they would ſtand upon their reputation, and priviledges of any of the Kingdoms. I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ray you, was not both the Kingdoms Monarchies from the beginning; and conſequently could ever the body be counted without the head, which was ever inſeperably joyned thereunto; ſo that as the Honour and Priviledge of any of the Kingdoms could not be divided from their Soveraign; ſo are they now con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nded, and joyned in my Perſon, who am equal, and like kindly head to you both.</p>
+               <p>When this Kingdom of <hi>England</hi> was divided into ſo many little Kingdoms, as I told before; one of them behoved to edate upon another; till they were U<g ref="char:EOLhyphen"/>nited in one: And yet can <hi>Wiltſhire,</hi> or <hi>Devonſhire,</hi> which were of the Weſt <hi>Sax<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns,</hi> although their Kingdom was of longeſt durance; and did by Conqueſts o<g ref="char:EOLhyphen"/>vercome divers of the reſt of the little Kingdoms, make claim to Priority, or Place, or Honour before <hi>Suſſex, Eſſex,</hi> and other Shires that was conquered by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem: And have we not the like experience in the Kingdom of <hi>France;</hi> being compoſed of divers Dutchies, and one after another Conquered by the Sword; for even as little Brooks loſe their Names, by their running and fall into Great Rivers; and the Name of the great River ſwallowed up in Ocean; ſo by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onjuction of divers little Kingdom in one, are all theſe private differences, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ueſtions ſwallowed up. And ſince the ſucceſs was happy of the <hi>Saxons</hi> King<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oms being Conquered, by the Spear of <hi>Bellona,</hi> now much greater reaſon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave we to expect a happy Iſſue of this greater Union, which is only faſtened, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd bound up by the Wedding Ring of <hi>Aſtrea;</hi> and as God hath made <hi>Scotland</hi>
+                  <pb n="4" facs="tcp:36584:5"/>the one half of this Iſland to enjoy my Birth; and the firſt, and moſt unperfect half of my Life; and you here to enjoy the perfect, and laſt part thereof; ſo can I not think that any would be ſo injurious to me; no, not in their thoughts, as to cut aſunder the one half of me from the other; but in this matter, I have far enough inſiſted, reſting aſſured in your Hearts and Minds; you all applaud this my Diſcourſe.</p>
+               <p>Now, although theſe Bleſſings rehearſed before, of inward and outward Peace be great; yet, ſeeing that in all good things, a great part of their good<g ref="char:EOLhyphen"/>neſs and eſtimation is loſt, if they have not appearance of perpetuity, or long continuance; ſo hath it pleaſed Almighty God to accompany my Perſon alſo, with that favour; having healthful, and hopeful Iſſue of my Body; whereof ſome are here preſent, for continuance of propagation of that undoubted Right, which in my Perſon; under whom I doubt not, but it will pleaſe God to proſper, and continue for many years this Union, and all other the Bleſſings of inward and outward Peace, which I have brought with me; but neither Peace outward, nor Peace inward, nor any other bleſſings that can follow thereupon; nor ap<g ref="char:EOLhyphen"/>pearance of the perpetuity thereof, by a propagation in the Poſterity, is but a weak Pillar; and a rotten Reed to lean unto; if God do not ſtrengthen, and by the ſtaff of his Bleſſing make them durable; for in vain doth the Watchman watch the City, if the Lord be not the principal defence thereof: In vain doth the Builder build the houſe, if God give not the Succeſs; and in vain as <hi>Paul</hi> ſaith; doth <hi>Paul</hi> Plant, and <hi>Apollo</hi> Water, if God give not the increaſe; for all worldly Bleſſings are but like ſwift paſſing ſhadows, fading Flowers, or Chaff blown before the Wind: If the profeſſion of true Religion, and Works accord<g ref="char:EOLhyphen"/>ing thereunto, God be not moved to maintain, and ſettle the Thrones of Prin<g ref="char:EOLhyphen"/>ces: And although, that ſince mine Entry into this Kingdom, I have both by meeting with divers Eccleſiaſtical Eſtates, and likewiſe by divers Proclamations clearly declared my mind in points of Religion; yet do I not think it amiſs in this Solemn an Audience; I ſhould now take an occaſion to diſcover ſomewhat of the ſecrets of my heart in that matter; for I ſhall never by Gods Grace, be aſhamed to make publick profeſſion thereof, at all occaſions; leaſt God ſhould be aſhamed to profeſs, and allow me before Men and Angels; eſpecially, leaſt that at this time meant, might preſume further upon the misknowledge of my mean<g ref="char:EOLhyphen"/>ing, in troubling of this Parliament of Ours, than were more convenient. At my firſt coming, although I found but one, and that which is by my ſelf profeſ<g ref="char:EOLhyphen"/>ſed, publickly Allowed, and by the Law maintained; yet I found another ſort of Religion, beſides a private Sect, lurking within the bowels of this Nation; The firſt is True Religion, which by me is profeſſed, and by the Law Eſtabliſh<g ref="char:EOLhyphen"/>ed: The Second is, the falſely called Catholicks; but truly Papiſts: The Third which I called a Sect rather than Religion; is the Puritans and Novaliſts, who do not ſo far differ from us in points of Religion, as in confuſed form of policy and parity; being ever diſcontented with the preſent Government, and impatient to ſuffer any Superiority; which maketh their Sect unable to be ſuffered in any well Governed Common-Wealth; but as for my courſe towards them; I remit it to my Proclamations made upon that Subject.</p>
+               <p>And now for the Papiſts; I muſt put a difference, betwixt mine own private Profeſſion of mine own Salvation; and my politique Government of the Realm, for the Weal and quietneſs thereof: As for my own profeſſion, you have your Head now amongſt you, of the ſame Religion as the Body is of; as I am no ſtranger to you in Blood, no more am I a ſtranger to you in Faith, or in the matters concerning the houſe of God; And although this my profeſſion be ac<g ref="char:EOLhyphen"/>cording to mine Education, wherein (I thank God) I ſuckt the Milk of Gods Truth, with the Milk of my Nurſes; yet do I here proteſt unto you, that I would never for ſuch a conceit of conſtancy, or other prejudicate Opinion have ſo firmly kept my firſt profeſſion; if I had not found it agreeable to all Reaſon, and to the Rule of my Conſcience; but I was never violent, nor unreaſonable in my profeſſion.</p>
+               <p>I acknowledge the Romiſh Church to be our Mother Church, although defi<g ref="char:EOLhyphen"/>led with ſome Infirmities and Corruptions; as the <hi>Jews</hi> were, when they Cruci<g ref="char:EOLhyphen"/>fied Chriſt: and as I am none Enemy to the Life of a Sick Man, becauſe I would
+<pb n="5" facs="tcp:36584:5" rendition="simple:additions"/>have his Body purged of ill humours; no more am I an Enemy to their Church, becauſe I would have them reform their Errors; not wiſhing the down throwing of the Temple, but that it may be purged, and cleanſed from the corruption; otherwiſe how can they wiſh us to enter, if their houſe be not firſt made clean. But as I would be loather to diſpence in the leaſt point of mine own Conſcience, for any worldly reſpect, than the fooliſheſt preciſian of them all; ſo would I be as ſorry to ſtraight the oublique Government of the Bodies, and minds of all my Subjects, to my private Opinions; nay, my mind was ever ſo free from Perſecution, or thralling of my Subjects in matter of Conſcience, as I hope that thoſe of that profeſſion in this Kingdom, have a proof ſince my coming, that I was ſo far from encreaſing their Burdens with <hi>Rehoboam,</hi> as I have ſo much, as either time, occaſion, or Law could permit, lightned them, and even now at this time, have I been careful to reviſe, and conſider deeply the Laws made againſt them; that ſome overture may be propoſed to the preſent Parliament, for clearing theſe Laws, by reaſon, which is the Soul of the Law, in caſe they have been in time paſt, further, or more rigorouſly extended by Judges, than the meaning of the Law was, or might tend to the hurt, as well of the innocent, as of guilty perſons: And as to the perſons of my Subjects, which are of that profeſſion, I muſt divide them into two Ranks, Clericks, and Layicks: For the part of the Layicks; certainly I ever thought them far more excuſable than the other ſort; becauſe that ſort of Religion containeth ſuch an ignorant, doubtful, and implicite kind of Faith in the Layicks, grounded upon their Church; as except they do generally believe whatſoever their Teachers pleaſe to affirm, they cannot be thought guilty of theſe particular points of Hereſies, and corrup<g ref="char:EOLhyphen"/>tion which their Teachers do ſo willingly profeſs: And again, I muſt divide the ſame Layicks into two Ranks that is, either quiet and well minded Men, peace<g ref="char:EOLhyphen"/>able Subjects, who either being Old have retained their firſt drunken in Liquor upon certain ſhamefacedneſs to be thought curious, or changeable, or being young men, through evil Education have never been Nurſed, or brought up, but upon ſuch Venom, in place of wholeſome nutriment; And that ſort of people, I would be ſorry to puniſh their Bodies for the errors of their mind; the reformation whereof muſt only come of God, and the true Spirit: But the other Rank of Layicks, who either through curioſity, affectation of Novelty, or diſcontentment in their private humours, have changed their Coats only to be factious ſtirrers of ſedition, and partakers of the Common-Wealth; their backwardneſs in Religion giveth aground to me the Magiſtrate, to take the better heed to their proceeding, and to correct their obſtinacy: But for the part of the Clericks, I muſt directly ſay, and affirm, that as long as they main<g ref="char:EOLhyphen"/>tain one ſpecial point of the Doctrine; and another point of their practice, they are no way ſufferable to remain in the Kingdom.</p>
+               <p>Their points of Doctrine, is that arrogant and ambitious Supremacy of their Head the Pope; whereby he not only claims to be ſpiritual Head of all Chri<g ref="char:EOLhyphen"/>ſtians, but alſo to have an Imperial Civil Power over all Kings and Emperors; dethroning, or decrowning Princes with his foot, as pleaſeth him, and diſpen<g ref="char:EOLhyphen"/>ſing and depoſing of all Kingdoms and Empires at his appetite: The other point, which they obſerve in their continual practice, is the Aſſaſſinate and Murthers of Kings; thinking it no ſin, but rather a matter of Salvation, to do all Acti<g ref="char:EOLhyphen"/>ons of Rebellion and Hoſtility againſt their Natural Soveraign Lord, if he be once Curſed, his Subjects diſcharged of their Fidelity, and his Kingdom given a Prey by that Three Crown'd Monarch, or rather Monſter-their Head: And in this point I have no occaſion to ſpeak further here; ſaving, that I could wiſh from my heart that it would pleaſe God to make me one of the Members of ſuch a Chriſtian Union in Religion; as laying wilfulneſs aſide on both Hands, we might meet in the midſt, which is the Center and Perfection of all things; for if they would leave, and be aſhamed of ſuch New and Groſs Corruptions of theirs, as themſelves cannot maintain, nor deny to be worthy of Reformation; I would for my own part, be contented to meet them in the mid way, ſo that all Novelties might be removed on either ſide; for as my Faith is the true Ancient and Catholick, and Apoſtolick Faith, grounded upon the Scriptures, and ex<g ref="char:EOLhyphen"/>preſs Word of God, ſo will I ever yield all Reverence to Antiquity in the points
+<pb n="6" facs="tcp:36584:6"/>of Eccleſiaſtical policy; and by that means, ſhall I ever with Gods grace, keep my ſelf from being either an Heretick in Faith, or Schiſmatick in matters of Policy: But of one thing would I have the Papiſts of this land be admoniſhed, that they preſume not too much upon my lenity; Becauſe I would be loath to be thought a perſecutor, as thereupon to think it lawful for them to encreaſe their num<g ref="char:EOLhyphen"/>ber, or ſtrength in this Kingdom; whereby, if not in my time, at Leaſt in the time of my Poſterity they might be in hope to erect their religion again: No, let them aſſure themſelves, that as I am a friend to their perſons if good Subjects; So am I avowed enemy, and do denounce mortal war to their Errors,</p>
+               <p>And that as I would be ſorry to be driven by their ill behaviour from the protection and conſervation of their bodies and lives, ſo will I never ceaſe, as far as I can, to tread down their Errors and wrong oppinions. For I could not permit the encreaſe of growing of their religion without Firſt be<g ref="char:EOLhyphen"/>traying of my ſelf and my own Conſcience.</p>
+               <p>Secondly, this whole Iſle, as well the part I am come from, as the part I re<g ref="char:EOLhyphen"/>main in, in betraying their liberties and reduceing them to the former ſlaviſh yoke, which both had caſten off before I came amongſt them.</p>
+               <p>And Thirdly, the Liberty of the Crown in my Poſterity, which I ſhould leave again under a new ſlavery, having found it left free to me by my Prede<g ref="char:EOLhyphen"/>ceſſors, and therefore would I wiſh all good Subjects that are deceived with that corruption, firſt if they find any beginning of inſtinction in themſelves of Know<g ref="char:EOLhyphen"/>ledge and Love to the truth, to foſter the ſame by all lawful means, and ſo be<g ref="char:EOLhyphen"/>ware of quenching the Spirit that worketh within them; And if they can find as yet no motion tending that way, to be ſtudious, to read and confer with learn<g ref="char:EOLhyphen"/>ed men, and to uſe ſuch means as may further their reſolution; Aſſuring themſelves that as long as they are diſconformable in religion from us they can<g ref="char:EOLhyphen"/>not be but half my Subjects, be able to do but half ſervice, and I to want the beſt half of them which is their Souls. And here have I occaſion, to ſpeak to you my Lords and Biſhops, for as you my Lord of <hi>Durham</hi> ſaid, very learnedly to day in your Sermon, correction without inſtruction is but a Tyranny: So ought you and all the Clergy under you to be more careful, vigilent, and diligent, then you have been to win ſouls to God, as well by your exemplary life as Do<g ref="char:EOLhyphen"/>ctrine; and ſince you ſee how careful they are, ſporeing neither labour paynes nor eztream peril of their perſons to divert (the Devil is ſo buſie a Biſhop) ye ſhould be the more careful and wakeful in your charges: fol<g ref="char:EOLhyphen"/>low the rule preſcrib'd you by St. Paul <hi>be careful to exhort and inſtruct in Seaſon and out of Seaſon;</hi> and where you have been any way Sluggiſh before, now wak<g ref="char:EOLhyphen"/>en your ſelves up again with a new diligence in this point, remitting the ſucceſs to God, who calling them at the ſecond, third, tenth, and twelfth hour, as they are alike welcome to him ſo ſhall they be to me his Leiutenant here.</p>
+               <p>The third reaſon of convening you here at this time, which conteineth ſuch action of my thankfullneſs towards you, as I may either do or leave undone; yet ſhall with Gods grace preſs to performe all the days of my life.</p>
+               <p>It conſiſts in theſe two points in making of Laws at Certain times, which is only at ſuch times as this in Parliament, or in the careful execution thereof at all other times; as for the making of them, I will thus far faithfully promiſe unto you, that I will ever prefer the weal of the Body of the whole Common-wealth in making of good Laws and Conſtitutions to any particular or private ends of mine, thinking ever the wealth and weale of the Common-wealth to be my great<g ref="char:EOLhyphen"/>eſt weal and worldly felicity. A Point werein a lawful King doth directly differ from a Tyrant: But at this time I am only thus far to forewarn you in that point, that you before to ſeek the making of too many Laws for two ſpecial reaſons; firſt becauſe in <hi>Corruptiſſima republica plurimae leges,</hi> and the ex<g ref="char:EOLhyphen"/>ecution of good laws is far more profitable in a Common wealth then to Burthen mens memories with the making too many of them: And next becauſe the making of too many Laws in one Parliament will bring in confuſion for lack of leiſure wiſely to deliberate before you Conclude: For the Biſhop ſaid well to day, That to deliberation would a large time be given, but to execution a greater prompt<g ref="char:EOLhyphen"/>neſs was required. As for the execution of good Laws it hath been very wiſely
+<pb n="7" facs="tcp:36584:6"/>and honorably foreſeen and ordered by my Predeceſſors in this Kingdom, in plant<g ref="char:EOLhyphen"/>ing ſuch a number of Judges and Magiſtrates in all convenient places for the ex<g ref="char:EOLhyphen"/>ecution of the ſame: And therefore muſt I now turn me to you that are Judges and Magiſtrates under me, as mine eyes and ears in this caſe, I can ſay none otherwiſe to you then as <hi>Ezekias</hi> the good King of <hi>Judea</hi> ſaid to their Judges, remember the Thrones as you ſit on are God's, neither yours nor mine, and that as you muſt be anſwerable to me ſo muſt both you, and I are anſwerable unto God for the due execution of our Offices. That place is not a place for you to utter your affections in, you muſt not there love your friend nor hate your Foe, fear the offence of the greater party, or pity the miſery of the meaner: Ye muſt be blind and not ſee diſtinction of perſons, handleſs not to receive bribes, but keep that juſt temper and mid courſe in all your proceedings, that like a Iuſt ballance ye may neither ſway to the right nor left hand.</p>
+               <p>Three principal qualities are required in you, Knowledge, Courage, and Sincerity, that you may diſcern with knowledge, execute with courage, and do both in upright ſincerity; and as for my part I do vow and proteſt here in the preſence of God and of this honourable Audience, I never ſhall be weary, nor omit any occaſion, wherein I may ſhew my carefullneſs of the execution of good Laws, and as I deſire you Judges not to be weary in your Office in doing of it, ſo ſhall I never be weary by Gods grace to take account of you, which is properly my calling. And now having told you the three cauſes of my Con<g ref="char:EOLhyphen"/>veneing a Parliament, all three tending only to utter my thankfullneſs but in divers formes; the firſt by words, the other two by actions, I do confeſs that when I have done and performed All that in this ſpeech I have promiſed <hi>Inutilis ſum inutile,</hi> becauſe the meaning of the word <hi>inutilis</hi> in that place of Scrip<g ref="char:EOLhyphen"/>ture is underſtood in doing all that ſervice which we can to God, it is but our due and we do nothing to God but that which we are bound to do, and in like manner when I have done all that I can for you, I do nothing, I do nothing but that which I am bound to do, and am accountable to God upon the contrary. For I do acknowledge that the ſpecial and greateſt point of difference, that is betwixt a rightful King and an uſurping Tyrant, is in this, That whereas the proud and ambitious Tyrant doth think his Kingdome and people are only ordain<g ref="char:EOLhyphen"/>ed for ſatisfaction of his deſires and unreaſonable appetites, the righteous and juſt King doth by the contrary acknowledge himſelf to be ordained for the procu<g ref="char:EOLhyphen"/>ring of the wealth and proſperity of his people, and that his greateſt, and prin<g ref="char:EOLhyphen"/>cipall worldly felicity muſt conſiſt in their proſperity. If you be rich I cannot be poor, If you be happy I cannot but be fortunate, and I proteſt that your wellfare ſhall ever be my greateſt care and contentment, and that I am a ſervant is moſt true: That as I am head and Governour of all the people in my Domi<g ref="char:EOLhyphen"/>nions, who are my Natural Vaſſals and Subjects, conſidering them in number and diſtinct ranks, ſo if we will take the whole people as one Body and Maſs, then as the head, ſo muſt a religious King know himſelf to be ordained, for his people, not his people for him: For though a King and people be related yet can he be no King if he want people and Subjects, but there are many people in the world that lack an head, wherefore I will not be aſhamed to confeſs it, my principal honour to be the great Servant of the Common wealth, and ever think the proſperity thereof to be my greateſt felicity as I have already ſaid. But as it Maſs the whole body of this Kingdom with an uniform aſſent and harmony in the begining of my ſpeech, which did ſo far oblige me in good will and thank<g ref="char:EOLhyphen"/>fullneſs of requital by their alacrity and readyneſs in declaring and receiving me to that place which God had provided for me, and not any particular per<g ref="char:EOLhyphen"/>ſons; for then it had not been the body, ſo is my thankfullneſs due to the whole ſtate, for even in matter of faults, <hi>Quod à multis peccatur impune peccatur,</hi> even ſo in the matter of vertuous and good deeds, what is done by the willing conſent and Harmony of the whole body, no particular perſon can juſtly claim thanks as pro<g ref="char:EOLhyphen"/>per to him for the ſame. And therefore I muſt here make a little Apology for my ſelf, in that I could not ſatisfie the particular humours of every perſon, that looked for ſome advancement or reward at my hand, ſince my entry into this Kingdom.</p>
+               <p>Three kind of things, were craved of me, advancement to Honour, prefer<g ref="char:EOLhyphen"/>ment
+<pb n="8" facs="tcp:36584:7"/>to Place of Credit about my perſon, and reward in matters of Land or <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> if I had beſtowed honour upon all, no man could have been advanced to ho<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>for the degrees of honour do conſiſt in preferring ſome above their fellow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>every man had the like acceſs to my privy or Bedchamber, then no man coul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it, becauſe it would not contein all. And if I had beſtowed lands and rewar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>on every man, the fountain of my liberality would be ſo exhauſted and drye <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſhould lack means to be liberal to every man. And yet was I not ſo ſparing <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I may without vanity affirm, that I have enlarged my favours in all three d<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> towards as many, or more then ever any King of England yet did in ſo ſ<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpace; no I rather crave your pardon, that I have been ſo bountiful; For <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> meanes of the Crown be waſted, I behoved then to recourſe to you my Su<gap reason="illegible" resp="#UOM" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> and be burthenſome to you which I would be loatheſt to be of any King <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for as it is true, that as I have already ſaid, it were a whole body, which did ſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> deſerve at my hand, and not every particular perſon of the people, yet were <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſome who took occaſion, both before, and at the time of my coming am<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> you to give a proof of their Love and affection toward me, not that I am any <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> doubt, that if other of my Subjects had been in their places, and had had th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> occaſion but they would uttered the like good effects (ſo general and ſo great <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the affections of ye all towards me. But yet this having been performed by <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſpecial perſons, I could not without Unthankfullneſs, But requite them ac<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ingly; And therefore had I juſt occaſion to advance ſome in honour, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> places of ſervice about me, and by rewarding to enable ſome who had de<gap reason="illegible" resp="#UOM" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> well of me, and were not otherwiſe able to maintain the rankes I thought <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> capable of: And others, who although they had not particularly deſerved <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> yet I found them capable and worthy of preferment and credit, and not <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſuſtain thoſe places for which I thought them fit without my help. Two <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cauſes moved me to be ſo open handed, whereof the one was reaſonable and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nourable, but the other I will not be aſhamed to confeſs unto you proceed<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> mine own infirmity; that which was juſt and honorable was that being <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> beholden to the body of the whole State, I thought I could not refuſe to let<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſome ſmall brooks out of the fountain of my thankfullneſs to the whole, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>freſhing of particular perſons that were members of that multitude: The <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which proceeded out of mine own infirmity was the multitude and imp<gap reason="illegible" resp="#UOM" extent="8 letters">
+                     <desc>〈8 letters〉</desc>
+                  </gap> of ſuitors. But although reaſon come by infriſion in a manner yet experience g<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>eth with time and labour, and therefore do I not doubt but experience in <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> coming will teach both the particular Subjects not to be ſo Importune and u<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>creet in craving, and me not to be ſo eaſily and lightly moved in granting <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which may be harmful to my eſtate, and conſequently to the whole Kingdom<g ref="char:punc">▪</g>
+               </p>
+               <p>And thus having at length declared unto you my mind in all the po<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which I called this Parliament.</p>
+               <p>My concluſion ſhall only be now to excuſe my ſelf, in caſe you have not f<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſuch eloquence in my ſpeech as peradventure you might have looked for a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hands. I might if I liſt alledge the great weight of my affairs, and my con<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>al buſineſs, and diſtraction, that I could never have leiſure to think upon w<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had to ſpeak before I came to the place where I was to ſpeak; and I might <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> alleadge that my firſt ſight of this ſo famous and honourable an aſſembly might <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wiſe breed ſome impediment, but leaving theſe excuſes, I will plainly and f<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in my manner tell you the true cauſe of it, which is that it becometh a Ki<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my opinion, to uſe no other eloquence then plainneſs and ſincerity, by plain<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mean that his ſpeech ſhould be ſo clear and void of all ambiguity that it may <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be thrown nor rent a ſunder in contrary ſences, like the old Oracle of the A<gap reason="illegible" resp="#UOM" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> Gods; and by ſincerity, I underſtand, that uprightneſs and honeſty which o<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to be in a Kings whole ſpeeches and actions. That as far as a King is in ho<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap> erected above any of his ſubjects, ſo far ſhould he ſtrive in ſincerity to be a<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> them all, and that his tongue ſhould be the true meſſenger of his great heart <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> this ſort of eloquence may you ever aſſuredly look for at my hands.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
